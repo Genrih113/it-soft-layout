@@ -1,0 +1,84 @@
+@font-face {
+  font-family: 'MyriadPro';
+  src: url('../fonts/MyriadPro-Regular.woff') 
+    format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'MyriadPro';
+  src: url('../fonts/MyriadPro-Light.woff') 
+    format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'MyriadPro';
+  src: url('../fonts/MyriadPro-Semibold.woff') 
+    format('woff');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Magistral';
+  src: url('../fonts/Magistral-Medium.woff') 
+    format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+.main-reg-f {
+  font-family: 'MyriadPro', Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.main-light-f {
+  font-family: 'MyriadPro', Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.main-semi-f {
+  font-family: 'MyriadPro', Helvetica, Arial, sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.sec-med-f {
+  font-family: 'Magistral', Helvetica, Arial, sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.fs16 {
+  font-size: 16px;
+  line-height: 1;
+}
+
+.fs20 {
+  font-size: 20px;
+  line-height: 1;
+}
+
+.h1 {
+  margin: 0;
+  font-size: 40px;
+  line-height: 1.2;
+  color: #333;
+}
+.h1_light {
+  color: #fff;
+}
+
+.p {
+  font-size: 18px;
+  line-height: 1.8;
+}
